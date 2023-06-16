@@ -1,3 +1,5 @@
+This repos is a copy of https://github.com/amigoscode/spring-boot-fullstack-professional. I use this repos for personal training.
+
 [![CICD](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml)
 
 https://amigoscode.com/p/full-stack-spring-boot-react
